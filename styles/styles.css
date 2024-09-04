@@ -1,0 +1,44 @@
+body {
+  box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   background-color: LightCyan;
+ }
+ 
+ h1 {
+   padding: 10px;
+   margin-top:10px;
+   text-align: center;
+ }
+ 
+ h2 {
+   margin-top: 40px;
+   text-align: center;
+ }
+ 
+ table {
+   height: 60%;
+   margin: auto;
+   border: 4px solid Gray;
+ }
+ 
+ th {
+   background-color: LightGray;
+   font-size: 24px;
+ }
+ 
+ td {
+   background-color: Linen;
+   font-size: 16px;
+ }
+ 
+ td,th {
+   padding: 10px;
+   text-align: center;
+   border: 2px solid LightSteelBlue;
+   font-family: monospace;
+ }
+ 
+ .tag-name {
+   background-color: thistle;
+ }
